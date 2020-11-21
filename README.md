@@ -1,7 +1,6 @@
 ### Hi 👋
 - 📫  How to reach me: contact@samuelryc.com
 
-
 <!--
 **samuelryc/samuelryc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
