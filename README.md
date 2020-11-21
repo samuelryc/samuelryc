@@ -1,5 +1,5 @@
-### Bonjour, Hi 👋
-- 📫  Comment me rejoindre | How to reach me: contact@samuelryc.com
+### Hi 👋
+- 📫  How to reach me: contact@samuelryc.com
 
 
 <!--
