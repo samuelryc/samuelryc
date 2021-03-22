@@ -1,5 +1,5 @@
 ### Hi 👋
-- 📫  Reach out: contact@samuelryc.com
+- 📫  Reach out by email: contact@samuelryc.com
 - ✨  Found anything helpful? You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
 
 <!--
