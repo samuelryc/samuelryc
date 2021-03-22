@@ -1,6 +1,6 @@
 ### Hi 👋
 - 📫  Reach out: contact@samuelryc.com
-- ✨  Found anything helpful? Thank me with a beer https://www.buymeacoffee.com/samuelryc 
+- ✨  Found anything helpful? You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
 
 <!--
 **samuelryc/samuelryc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
