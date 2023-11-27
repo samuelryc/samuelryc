@@ -1,7 +1,8 @@
 ### Hi 👋
-- 📫  Reach out contact@samuelryc.com
+- 📫 contact@samuelryc.com
 - 👨‍💻 [Codewars profile](https://www.codewars.com/users/sryc)
-- ✨  Found anything helpful? You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
+- 👨‍💻 [Codingame profile](https://www.codingame.com/profile/b0606cba474aa8af16c7f9241f7ae5844478085)
+- ✨ Found anything helpful? You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
 
 <!--
 **samuelryc/samuelryc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
