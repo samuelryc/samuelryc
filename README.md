@@ -1,5 +1,6 @@
 ### Hi 👋
 - 📫  Reach out contact@samuelryc.com
+- 👨‍💻 [Codewars profile](https://www.codewars.com/users/sryc)
 - ✨  Found anything helpful? You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
 
 <!--
