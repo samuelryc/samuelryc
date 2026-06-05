@@ -1,1 +1,1 @@
-### Hi 👋
+### Hi / Bonjour / Ahoj 👋
